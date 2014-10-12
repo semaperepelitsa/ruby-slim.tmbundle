@@ -7,6 +7,8 @@
 		<string>slim</string>
 		<string>skim</string>
 	</array>
+	<key>firstLineMatch</key>
+	<string>(html|doctype)</string>
 	<key>foldingStartMarker</key>
 	<string>^\s*([-%#\:\.\w\=].*)\s$</string>
 	<key>foldingStopMarker</key>
