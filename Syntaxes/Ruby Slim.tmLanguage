@@ -161,20 +161,6 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.prolog.slim</string>
-				</dict>
-			</dict>
-			<key>match</key>
-			<string>^(! )($|\s.*)</string>
-			<key>name</key>
-			<string>meta.prolog.slim</string>
-		</dict>
-		<dict>
-			<key>captures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
 					<string>punctuation.section.comment.slim</string>
 				</dict>
 			</dict>
