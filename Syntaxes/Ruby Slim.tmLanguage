@@ -528,14 +528,6 @@
 					<key>include</key>
 					<string>#tag-stuff</string>
 				</dict>
-				<dict>
-					<key>include</key>
-					<string>#string-double-quoted</string>
-				</dict>
-				<dict>
-					<key>include</key>
-					<string>#string-single-quoted</string>
-				</dict>
 			</array>
 		</dict>
 		<key>normal-inline-html-tag</key>
@@ -738,6 +730,10 @@
 				<dict>
 					<key>include</key>
 					<string>#embedded-ruby</string>
+				</dict>
+				<dict>
+					<key>include</key>
+					<string>source.ruby.rails</string>
 				</dict>
 			</array>
 		</dict>
